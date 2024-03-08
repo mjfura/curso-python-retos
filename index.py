@@ -3,4 +3,7 @@ from control_de_flujo.sumatoria_mejorada import sumatoria_mejorada
 from control_de_flujo.sumatoria_series import sumatoria_series
 from control_de_flujo.mostrar_multiplos import mostrar_multiplos
 from funciones.velocidad_respuesta import carrera
-carrera()
+import funciones.calcular_primo as fn_primo
+
+
+fn_primo.calcular_primo(23)
