@@ -1,5 +1,5 @@
 
-
+# Define un número de elementos y al final de ingresarlos realiza la suma de estos
 def sumatoria():
     print('Ingresar un número N: ')
     input_n=input()

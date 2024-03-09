@@ -1,4 +1,5 @@
 from .validador_numero import convert_num
+#Función que calcula la sumatoria de pares de números hasta que la suma de un par sea 0.
 def sumatoria_series():
     is_finished_series=False
     suma_total=0

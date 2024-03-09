@@ -1,3 +1,4 @@
+# Suma una lista de números que vas ingresando hasta  que ingresas 0. Y al final te muestra el total.
 def sumatoria_mejorada():
     is_finished=False
     suma=0
